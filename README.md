@@ -1,2 +1,7 @@
-# simple todo application
- Simple TODO application with MySQL usage
+# Simple TODO application
+Это простое приложение для работы со списком дел.
+
+Стэк, который использовался при создании этого приложения:
+1. MySQL;
+2. Принцип MVC;
+3. RestAPI.
